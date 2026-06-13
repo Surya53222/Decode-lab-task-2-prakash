@@ -107,6 +107,6 @@ This project successfully demonstrates the implementation of RESTful services us
 
 Developed By
 
-surya prakash
+Surya prakash
 
 Full Stack Development Internship
